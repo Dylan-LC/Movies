@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
 
     """This class provide a way to store movie related information"""
